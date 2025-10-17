@@ -17,3 +17,5 @@ lxml~=5.2.1
 selenium~=4.24
 python-telegram-bot==20.7
 soccerdata==1.5.0
+python-telegram-bot==20.7
+aiohttp>=3.8
